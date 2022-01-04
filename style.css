@@ -1,0 +1,16 @@
+.body_background {
+    background-image: url("https://th.bing.com/th/id/OIP.ayEtgZE_BOlZds4oxqUycQHaEo?");
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+      color: red; 
+      font-size: 40px;
+}
+
+#myCanvas {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+}
